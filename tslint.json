@@ -5,6 +5,7 @@
         "tslint-react",
         "tslint-config-prettier"
     ],
+    
     "jsRules": {},
     "rules": {
         "max-line-length": [true, 120],
